@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">4040E034test5</string>
+    <string name="t">國文</string>
+    <string name="e">英文</string>
+    <string name="m">數學</string>
+    <string name="f">法文</string>
+    <string name="submit">送出</string>
+    <string name="back">返回</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
